@@ -1,6 +1,7 @@
 # firstflutter
 
-A new Flutter application.
+Mobile App Dev Lab Exercise by Shakir 193908
+Basic random word generator list on the homepage
 
 ## Getting Started
 
